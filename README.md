@@ -28,7 +28,7 @@ Heads-up NLH Poker equity calculator. Accurate preflop, post-flop, turn, and riv
 - No UI. Have to run in IDE or cmd equivelent.
 - Feel free to submit any other suggestions
 
-  ## Development
+## Development
 1. Create and organise cards into ranks and suits.
    - Represent cards as tuples
 2. Organise user input into data python can understand
